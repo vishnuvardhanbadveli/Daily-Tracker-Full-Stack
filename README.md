@@ -29,3 +29,9 @@ Database:
 
 frontend/
 backend/
+
+![Dashboard](screenshots/dashboard.png)
+
+![Mobile](screenshots/mobile1.png)
+
+![Mobile](screenshots/mobile2.png)
